@@ -1,1 +1,1 @@
-https://anonymousdemo1.github.io/lect/
+https://anonymousdemo1.github.io/lect/login.html
